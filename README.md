@@ -13,6 +13,44 @@ Computer science graduate with nearly three years as a software engineer, buildi
 
 Knowing how software is built and shipped, from the interface down to the database, makes for sharper judgement when assessing what it produces. I work remotely, to written guidelines, without supervision.
 
+<img src="s-education.png" width="100%" alt="Education" />
+
+**Bachelor of Science - Computer**   `Oct 2015`
+
+J.A.E.T. Society's Arts, Science and Commerce Girls College, Malegaon (Savitribai Phule Pune University)
+<br />First Class, with Computer Science as subsidiary subject
+
+**Higher Secondary Certificate (HSC)** and **Secondary School Certificate (SSC)**
+
+The Malegaon High School and Jr. College, Maharashtra State Board
+
+<img src="s-experience.png" width="100%" alt="Experience" />
+
+### Software Engineer
+
+`Finacus InfoTech Pvt. Ltd.`   **Oct 2016 - Jun 2019**
+
+- Developed and maintained server-side application modules in Python, Java and PHP, covering business logic, data processing and backend integration.
+- Extended and refactored existing codebases, resolving defects and adding functionality against client requirements and delivery timelines.
+- Developed and maintained responsive user interfaces in HTML5, CSS3 and Bootstrap, translating design specifications into production-ready screens.
+- Verified layouts across browsers, resolutions and devices, resolving rendering and compatibility issues ahead of each release.
+
+### AI Data Specialist and Evaluator
+
+`Independent, remote contract work`   **Jun 2019 - Present**
+
+- Annotate and label text, image and audio data to client specification, holding quality against sampled audit review.
+- Evaluate AI model responses for accuracy, relevance, tone and policy compliance, and write structured feedback that feeds back into training.
+- Rate search results and search advertisements against published relevance guidelines, applying consistent judgement across high query volumes.
+- Transcribe and translate text and speech, and review dubbing and lip-sync output for timing and naturalness.
+- Validate AI training datasets, flagging mislabelled, ambiguous and out-of-guideline items before delivery.
+
+<img src="s-whatido.png" width="100%" alt="What I do" />
+
+**Software engineering** - building application logic and the interfaces on top of it, and carrying a release through to client rollout and user acceptance.
+
+**AI data and evaluation** - labelling, rating and validating the data that trains and measures language models and search systems, applying detailed written rubrics consistently across high volumes.
+
 <img src="s-tech.png" width="100%" alt="Tech stack" />
 
 **Languages**
@@ -53,11 +91,18 @@ Knowing how software is built and shipped, from the interface down to the databa
   <img src="https://img.shields.io/badge/Data%20Validation-0B1E2D?style=flat-square&labelColor=06121C" alt="Data validation" />
 </p>
 
-<img src="s-whatido.png" width="100%" alt="What I do" />
+<img src="s-skills.png" width="100%" alt="Core competencies" />
 
-**Software engineering** - building application logic and the interfaces on top of it, and carrying a release through to client rollout and user acceptance.
-
-**AI data and evaluation** - labelling, rating and validating the data that trains and measures language models and search systems, applying detailed written rubrics consistently across high volumes.
+| Area | Detail |
+| :-- | :-- |
+| **Programming** | Python, Java, JavaScript, PHP, SQL |
+| **AI and data** | Data annotation and labelling, AI model training, prompt evaluation, content review and quality rating, data validation |
+| **Search evaluation** | Search relevance rating, search engine evaluation, search advertisement quality rating |
+| **Linguistic** | Transcription, translation, dubbing and lip-sync review, multilingual evaluation |
+| **Front-end** | HTML5, CSS3, Bootstrap, responsive layout, cross-browser verification |
+| **Databases** | MS-SQL Server, MySQL, MySQL Workbench, SQL for data preparation and validation |
+| **Software delivery** | Implementation and rollout, requirement gathering, client onboarding, UAT |
+| **Languages** | English, Hindi, Marathi, Urdu |
 
 <img src="s-projects.png" width="100%" alt="Projects" />
 
@@ -84,51 +129,6 @@ One form in English, Hindi, Marathi and Urdu. Urdu flips the whole layout right 
 Marks entry, automatic grading and printable marksheets. A student passes only if every subject clears the pass mark. The grading scale lives in a table rather than in code, and the sort column is whitelisted.
 
 `PHP` `MySQL` `SQL views` `JavaScript`   [Live demo](https://asra-iram.github.io/student-result-system/)
-
-<img src="s-experience.png" width="100%" alt="Experience" />
-
-### Software Engineer
-
-`Finacus InfoTech Pvt. Ltd.`   **Oct 2016 - Jun 2019**
-
-- Developed and maintained server-side application modules in Python, Java and PHP, covering business logic, data processing and backend integration.
-- Extended and refactored existing codebases, resolving defects and adding functionality against client requirements and delivery timelines.
-- Developed and maintained responsive user interfaces in HTML5, CSS3 and Bootstrap, translating design specifications into production-ready screens.
-- Verified layouts across browsers, resolutions and devices, resolving rendering and compatibility issues ahead of each release.
-
-### AI Data Specialist and Evaluator
-
-`Independent, remote contract work`   **Jun 2019 - Present**
-
-- Annotate and label text, image and audio data to client specification, holding quality against sampled audit review.
-- Evaluate AI model responses for accuracy, relevance, tone and policy compliance, and write structured feedback that feeds back into training.
-- Rate search results and search advertisements against published relevance guidelines, applying consistent judgement across high query volumes.
-- Transcribe and translate text and speech, and review dubbing and lip-sync output for timing and naturalness.
-- Validate AI training datasets, flagging mislabelled, ambiguous and out-of-guideline items before delivery.
-
-<img src="s-skills.png" width="100%" alt="Core competencies" />
-
-| Area | Detail |
-| :-- | :-- |
-| **Programming** | Python, Java, JavaScript, PHP, SQL |
-| **AI and data** | Data annotation and labelling, AI model training, prompt evaluation, content review and quality rating, data validation |
-| **Search evaluation** | Search relevance rating, search engine evaluation, search advertisement quality rating |
-| **Linguistic** | Transcription, translation, dubbing and lip-sync review, multilingual evaluation |
-| **Front-end** | HTML5, CSS3, Bootstrap, responsive layout, cross-browser verification |
-| **Databases** | MS-SQL Server, MySQL, MySQL Workbench, SQL for data preparation and validation |
-| **Software delivery** | Implementation and rollout, requirement gathering, client onboarding, UAT |
-| **Languages** | English, Hindi, Marathi, Urdu |
-
-<img src="s-education.png" width="100%" alt="Education" />
-
-**Bachelor of Science - Computer**   `Oct 2015`
-
-J.A.E.T. Society's Arts, Science and Commerce Girls College, Malegaon (Savitribai Phule Pune University)
-<br />First Class, with Computer Science as subsidiary subject
-
-**Higher Secondary Certificate (HSC)** and **Secondary School Certificate (SSC)**
-
-The Malegaon High School and Jr. College, Maharashtra State Board
 
 <img src="s-contact.png" width="100%" alt="Contact" />
 

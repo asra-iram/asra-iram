@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0B1E2D?style=for-the-badge&labelColor=06121C&logo=statuspage&logoColor=56E2E9" alt="Open to work" />
 </p>
 
+<img src="s-whatido.png" width="100%" alt="What I do" />
+
+**Software engineering** - building application logic and the interfaces on top of it, and carrying a release through to client rollout and user acceptance.
+
+**AI data and evaluation** - labelling, rating and validating the data that trains and measures language models and search systems, applying detailed written rubrics consistently across high volumes.
+
 <img src="s-about.png" width="100%" alt="About" />
 
 Computer science graduate with nearly three years as a software engineer, building applications and the interfaces on top of them, and seven years of independent work on the data behind AI systems: annotation, model training, evaluation and search relevance.
@@ -44,12 +50,6 @@ The Malegaon High School and Jr. College, Maharashtra State Board
 - Rate search results and search advertisements against published relevance guidelines, applying consistent judgement across high query volumes.
 - Transcribe and translate text and speech, and review dubbing and lip-sync output for timing and naturalness.
 - Validate AI training datasets, flagging mislabelled, ambiguous and out-of-guideline items before delivery.
-
-<img src="s-whatido.png" width="100%" alt="What I do" />
-
-**Software engineering** - building application logic and the interfaces on top of it, and carrying a release through to client rollout and user acceptance.
-
-**AI data and evaluation** - labelling, rating and validating the data that trains and measures language models and search systems, applying detailed written rubrics consistently across high volumes.
 
 <img src="s-tech.png" width="100%" alt="Tech stack" />
 

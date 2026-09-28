@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://asra-iram.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20SITE-0B1E2D?style=for-the-badge&labelColor=06121C&color=0B1E2D&logo=googlechrome&logoColor=56E2E9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/asra-mohammad-6531233b0/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1E2D?style=for-the-badge&labelColor=06121C&logo=linkedin&logoColor=56E2E9" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/asra-iram-6531233b0/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1E2D?style=for-the-badge&labelColor=06121C&logo=linkedin&logoColor=56E2E9" alt="LinkedIn" /></a>
   <a href="mailto:dynamica4321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-0B1E2D?style=for-the-badge&labelColor=06121C&logo=gmail&logoColor=C45CDC" alt="Email" /></a>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0B1E2D?style=for-the-badge&labelColor=06121C&logo=statuspage&logoColor=56E2E9" alt="Open to work" />
 </p>
@@ -136,6 +136,6 @@ Available for remote AI data and evaluation work, and for software engineering r
 
 <p>
   <a href="https://asra-iram.github.io"><img src="https://img.shields.io/badge/Portfolio-asra--iram.github.io-0B1E2D?style=for-the-badge&labelColor=06121C&logo=googlechrome&logoColor=56E2E9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/asra-mohammad-6531233b0/"><img src="https://img.shields.io/badge/LinkedIn-asra--mohammad-0B1E2D?style=for-the-badge&labelColor=06121C&logo=linkedin&logoColor=56E2E9" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/asra-iram-6531233b0/"><img src="https://img.shields.io/badge/LinkedIn-asra--iram-0B1E2D?style=for-the-badge&labelColor=06121C&logo=linkedin&logoColor=56E2E9" alt="LinkedIn" /></a>
   <a href="mailto:dynamica4321@gmail.com"><img src="https://img.shields.io/badge/Email-dynamica4321%40gmail.com-0B1E2D?style=for-the-badge&labelColor=06121C&logo=gmail&logoColor=C45CDC" alt="Email" /></a>
 </p>

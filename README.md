@@ -59,11 +59,37 @@ Knowing how software is built and shipped, from the interface down to the databa
 
 **AI data and evaluation** - labelling, rating and validating the data that trains and measures language models and search systems, applying detailed written rubrics consistently across high volumes.
 
+<img src="s-projects.png" width="100%" alt="Projects" />
+
+### [Loan and EMI Toolkit](https://github.com/asra-iram/loan-emi-toolkit)
+
+EMI on a reducing balance loan, the full month by month amortization schedule, and what an extra monthly payment actually saves in interest and in months. Built off three years on banking and payment software.
+
+`JavaScript` `SVG charts` `CSV export`   [Live demo](https://asra-iram.github.io/loan-emi-toolkit/)
+
+### [Powerloom Order and Billing Tracker](https://github.com/asra-iram/powerloom-order-tracker)
+
+Order and billing software for a powerloom unit: orders from loom to delivery, what each customer still owes, and a printable invoice with GST. Browser demo plus a real PHP and MySQL backend with prepared statements and transactions.
+
+`PHP` `MySQL` `PDO` `JavaScript`   [Live demo](https://asra-iram.github.io/powerloom-order-tracker/)
+
+### [Multilingual Interface with RTL Support](https://github.com/asra-iram/multilingual-rtl-ui)
+
+One form in English, Hindi, Marathi and Urdu. Urdu flips the whole layout right to left using CSS logical properties, loads a Nastaliq face, and keeps digits and phone numbers left to right.
+
+`CSS logical properties` `RTL` `i18n`   [Live demo](https://asra-iram.github.io/multilingual-rtl-ui/)
+
+### [Student Result Management System](https://github.com/asra-iram/student-result-system)
+
+Marks entry, automatic grading and printable marksheets. A student passes only if every subject clears the pass mark. The grading scale lives in a table rather than in code, and the sort column is whitelisted.
+
+`PHP` `MySQL` `SQL views` `JavaScript`   [Live demo](https://asra-iram.github.io/student-result-system/)
+
 <img src="s-experience.png" width="100%" alt="Experience" />
 
 ### Software Engineer
 
-`Finacus InfoTech Pvt. Ltd.` &nbsp; **Oct 2016 - Jun 2019**
+`Finacus InfoTech Pvt. Ltd.`   **Oct 2016 - Jun 2019**
 
 - Developed and maintained server-side application modules in Python, Java and PHP, covering business logic, data processing and backend integration.
 - Extended and refactored existing codebases, resolving defects and adding functionality against client requirements and delivery timelines.
@@ -72,7 +98,7 @@ Knowing how software is built and shipped, from the interface down to the databa
 
 ### AI Data Specialist and Evaluator
 
-`Independent, remote contract work` &nbsp; **Jun 2019 - Present**
+`Independent, remote contract work`   **Jun 2019 - Present**
 
 - Annotate and label text, image and audio data to client specification, holding quality against sampled audit review.
 - Evaluate AI model responses for accuracy, relevance, tone and policy compliance, and write structured feedback that feeds back into training.
@@ -95,7 +121,7 @@ Knowing how software is built and shipped, from the interface down to the databa
 
 <img src="s-education.png" width="100%" alt="Education" />
 
-**Bachelor of Science - Computer** &nbsp; `Oct 2015`
+**Bachelor of Science - Computer**   `Oct 2015`
 
 J.A.E.T. Society's Arts, Science and Commerce Girls College, Malegaon (Savitribai Phule Pune University)
 <br />First Class, with Computer Science as subsidiary subject

@@ -106,6 +106,14 @@ The Malegaon High School and Jr. College, Maharashtra State Board
 
 <img src="s-projects.png" width="100%" alt="Projects" />
 
+### [Skybrawl](https://github.com/asra-iram/skybrawl)
+
+A jetpack deathmatch that people join from their own phones with a four character room code. One browser hosts the match and sends the world out fifteen times a second over WebRTC data channels; the others send input back and predict their own pilot locally so the controls never feel laggy. Bots fill any empty slot, and a bot takes over the moment someone leaves.
+
+Five pilots with their own weight, speed and skill, six arenas, five gamble canisters, and two art directions that swap the whole look. Every character and icon is drawn in code, and the sound is synthesised at run time, so the whole thing is one HTML file with no assets.
+
+`WebRTC` `Canvas` `Web Audio` `JavaScript`   [Play it](https://asra-iram.github.io/skybrawl/)
+
 ### [Loan and EMI Toolkit](https://github.com/asra-iram/loan-emi-toolkit)
 
 EMI on a reducing balance loan, the full month by month amortization schedule, and what an extra monthly payment actually saves in interest and in months. Built off three years on banking and payment software.
